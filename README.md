@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Social banner for robert-inkpen](https://raw.githubusercontent.com/robert-inkpen/robert-inkpen/raw/master/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
+![Social Banner](https://github.com/robert-inkpen/robert-inkpen/blob/master/static_header.png?raw=true)
 
-[![Social banner for robert-inkpen](https://raw.githubusercontent.com/robert-inkpen/robert-inkpen/robert-inkpen/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 <!--
 **robert-inkpen/robert-inkpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
