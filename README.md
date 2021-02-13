@@ -2,7 +2,7 @@
 
 [![Social banner for robert-inkpen](https://raw.githubusercontent.com/robert-inkpen/robert-inkpen/raw/master/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
 
-[![Header](https://raw.githubusercontent.com/robert-inkpen/<OWNER>/<OWNER>/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
+[![](https://raw.githubusercontent.com/robert-inkpen/<OWNER>/<OWNER>/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
 
 <!--
 **robert-inkpen/robert-inkpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
