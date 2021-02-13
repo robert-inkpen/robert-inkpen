@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Social Banner](https://github.com/robert-inkpen/robert-inkpen/assets/static_header.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Social Banner](https://github.com/robert-inkpen/robert-inkpen/assets/static_header.png)
+
 
 
 
