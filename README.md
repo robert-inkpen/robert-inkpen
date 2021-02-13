@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Social banner for robert-inkpen](https://github.com/robert-inkpen/robert-inkpen/raw/master/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
+[![Social banner for robert-inkpen](https://github.com/robert-inkpen/robert-inkpen/master/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
 
 
 <!--
