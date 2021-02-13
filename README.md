@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Social Banner](https://github.com/robert-inkpen/robert-inkpen/assets/static_header.png)
+![Social Banner](https://github.com/robert-inkpen/assets/static_header.png)
 
 
 
