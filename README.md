@@ -2,6 +2,7 @@
 
 ![Social Banner](https://github.com/robert-inkpen/assets/static_header.png)
 
+![Test Image](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
 
 
 
