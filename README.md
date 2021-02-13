@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Social Banner](https://github.com/robert-inkpen/robert-inkpen/blob/master/static_header.png?raw=true)
+![Social Banner](https://github.com/robert-inkpen/robert-inkpen/master/static_header.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
