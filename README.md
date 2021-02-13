@@ -1,4 +1,4 @@
-### Hi there 👋
+### :alien:
 
 ![Social Banner](https://github.com/robert-inkpen/robert-inkpen/blob/main/assets/static_header.png)(https://www.linkedin.com/in/robert-inkpen/)
 
