@@ -1,6 +1,6 @@
 ### :alien:
 
-![Social Banner](https://github.com/robert-inkpen/robert-inkpen/blob/main/assets/static_header.png)(https://www.linkedin.com/in/robert-inkpen/)
+[![Social Banner for robert-inkpen](https://github.com/robert-inkpen/robert-inkpen/blob/main/assets/static_header.png)](https://www.linkedin.com/in/robert-inkpen/)
 
 <!--
 **robert-inkpen/robert-inkpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
