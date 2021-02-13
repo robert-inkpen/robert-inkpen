@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Social banner for jh3y](https://github.com/robert-inkpen/robert-inkpen/raw/master/assets/header-banner--optimized.svg)]
+
+
 <!--
 **robert-inkpen/robert-inkpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
